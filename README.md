@@ -176,11 +176,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Tailwind CSS for styling utilities
 - Heroicons for beautiful icons
 
-## 📞 Support
-
-For support and questions:
-- Email: support@careeradvisor.com
-- Phone: +91 98765 43210
 - GitHub Issues: [Create an issue](https://github.com/your-repo/issues)
 
 ---
